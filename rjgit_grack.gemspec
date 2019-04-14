@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/grackorg/rjgit_grack"
   s.license = 'MIT'
 
-  s.add_dependency 'rjgit', '~> 4.0'
+  s.add_dependency 'rjgit', '~> 5.0'
 end
